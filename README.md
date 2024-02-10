@@ -1,1 +1,5 @@
-# harsha
+👋 Hello there! I'm Harsha, a passionate developer with a love for technology and problem-solving.
+
+🚀 Full Stack Dreamer | MCA '23 Graduate | Interning at the intersection of Tech & Social Impact 🌍
+
+🎓 Passionate about bridging the gap between technology and social change, I graduated with a Master's in Computer Applications in 2023.💼 Currently exploring the realms of tech-for-good through my internship journey, where I'm leveraging my skills to contribute to projects aimed at making a positive impact on society.💻 Proficient in front-end technologies like HTML, CSS, and JavaScript, with a keen eye for design and user experience.🛠️ Delving into back-end technologies such as Node.js, Express.js, and databases like MongoDB to build robust server-side applications.🔍 Eager to learn and explore new technologies, frameworks, and best practices to enhance my skills and stay up-to-date with industry trends.🚀 Enthusiastic about creating meaningful projects that solve real-world problems and make a positive impact on people's lives.📫 Let's connect! Whether it's discussing coding challenges, sharing project ideas, or exploring opportunities – feel free to reach out via [LinkedIn]https://www.linkedin.com/in/harsha-joseph-788349286/ or drop me an email at hj582000@gmail.com.
